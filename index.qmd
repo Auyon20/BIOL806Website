@@ -3,16 +3,22 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/auyon.jpg
 ---
 
 :::{#me}
 
 ## Goals
+To finish the BIOL806 course successfully. 
 
 ## Education
+- MS in Environmental Science
+- BSc in Agriculture 
+
 
 ## Experience
+- Teaching
+- Research 
 
 :::
 
